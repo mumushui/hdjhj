@@ -1,0 +1,7 @@
+C:\Users\12c311\Desktop\淇彬\雷赛测试2\雷赛测试2\bin\Debug\雷赛测试2.exe
+C:\Users\12c311\Desktop\淇彬\雷赛测试2\雷赛测试2\bin\Debug\雷赛测试2.pdb
+C:\Users\12c311\Desktop\淇彬\雷赛测试2\雷赛测试2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\12c311\Desktop\淇彬\雷赛测试2\雷赛测试2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\12c311\Desktop\淇彬\雷赛测试2\雷赛测试2\obj\x86\Debug\雷赛测试2.csproj.GenerateResource.Cache
+C:\Users\12c311\Desktop\淇彬\雷赛测试2\雷赛测试2\obj\x86\Debug\雷赛测试2.exe
+C:\Users\12c311\Desktop\淇彬\雷赛测试2\雷赛测试2\obj\x86\Debug\雷赛测试2.pdb
